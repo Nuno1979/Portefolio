@@ -65,3 +65,17 @@ The dataset includes over 20,000 songs, focusing on performance, popularity tren
 * The vast majority of songs are solo performances (~93%), showing a strong preference for individual artists over collaborations in the dataset.
 * A small number of songs appear repeatedly in rankings, suggesting that sustained visibility is a key factor in long-term success.
 
+## 📊 Dashboard Preview
+
+### 📀 Albums
+
+![Albums](images/albums.png)
+
+### 🎤 Artists
+
+![Artists](images/artists.png)
+
+### 🎵 Songs
+
+![Songs](images/songs.png)
+

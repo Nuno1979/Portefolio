@@ -52,3 +52,16 @@ The dataset includes over 11,000 artists, providing insights into both popularit
 * Bands represent the largest share of artists (~50%), followed by solo performers (~37%), indicating that group formations still play a significant role in the industry.
 * Rock-related genres dominate the dataset, with categories like album rock leading in artist count, suggesting a strong historical influence of rock music.
 * There is a clear distinction between historical ranking and current popularity, showing that long-term success and present-day relevance do not always align.
+  
+## 🎵 Songs Analysis
+
+The dataset includes over 20,000 songs, focusing on performance, popularity trends, and longevity in music rankings.
+
+### Key Insights
+
+* Certain songs such as *Radioactive* and *Sail* show exceptional longevity, remaining in rankings for extended periods, which highlights the importance of consistency over time.
+* Popularity trends fluctuate significantly across years, suggesting that external factors such as trends, media exposure, and audience behavior strongly influence song performance.
+* There is a clear distinction between peak success and long-term consistency, indicating that some songs achieve short-term popularity while others maintain steady performance.
+* The vast majority of songs are solo performances (~93%), showing a strong preference for individual artists over collaborations in the dataset.
+* A small number of songs appear repeatedly in rankings, suggesting that sustained visibility is a key factor in long-term success.
+

@@ -27,7 +27,7 @@ Data sourced from Kaggle, including albums, artists, and songs.
 
 ## 📌 Status
 
-Project in progress – currently improving insights and visuals.
+Project complete
 
 ## 📀 Albums Analysis
 

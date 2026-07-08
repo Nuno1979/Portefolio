@@ -199,8 +199,8 @@
 
 ## 📧 Connect With Me
 
-- **LinkedIn**: [Add your LinkedIn profile URL]
-- **Email**: [Add your email]
+- **LinkedIn**: www.linkedin.com/in/nuno-miguel-neves-teixeira-2a027a199
+- **Email**: nunomiguelnevesteixeira2gmail.com
 - **GitHub**: [@Nuno1979](https://github.com/Nuno1979)
 
 ---
